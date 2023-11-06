@@ -1,0 +1,14 @@
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\bin\Debug\net6.0\Task_2.exe
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\bin\Debug\net6.0\Task_2.deps.json
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\bin\Debug\net6.0\Task_2.dll
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\bin\Debug\net6.0\Task_2.pdb
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\obj\Debug\net6.0\Task_2.dll
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\obj\Debug\net6.0\refint\Task_2.dll
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\obj\Debug\net6.0\Task_2.pdb
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
+C:\Users\ХХХ\Documents\GitHub\lab_7\Task_2\obj\Debug\net6.0\ref\Task_2.dll
